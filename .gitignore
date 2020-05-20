@@ -1,0 +1,8 @@
+src/backend/*
+src/frontend/*
+mysql/*
+
+.DS_Store
+logs
+*.log
+!example.log
